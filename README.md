@@ -21,34 +21,3 @@ Framework: Flask / Django (Select yours)
 Frontend: HTML5, CSS3, JavaScript
 
 Data Management: SQLite / JSON-based data handling
-
-📂 Project Directory Structure
-Plaintext
-├── app.py              # Main Python entry point
-├── data/               # Butterfly species database (JSON/CSV/DB)
-├── static/             # Assets: CSS, JavaScript, and Butterfly Images
-│   ├── css/
-│   ├── js/
-│   └── img/
-├── templates/          # HTML Templates for the web view
-└── requirements.txt    # List of Python dependencies
-⚙️ Installation & Usage
-Clone the Repository:
-
-Bash
-git clone https://github.com/Vibushidha/Butterfly-spotting-guide.git
-Navigate to the Directory:
-
-Bash
-cd Butterfly-spotting-guide
-Install Required Packages:
-
-Bash
-pip install -r requirements.txt
-Launch the Application:
-
-Bash
-python app.py
-
-👤 Author
-Developed with 🌿 by jamuna.k
